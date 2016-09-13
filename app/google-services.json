@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "29628933278",
+    "firebase_url": "https://primerproyecto-bad45.firebaseio.com",
+    "project_id": "primerproyecto-bad45",
+    "storage_bucket": "primerproyecto-bad45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29628933278:android:4601db2694027a04",
+        "android_client_info": {
+          "package_name": "jonalexjm.com.applanzarnotificacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29628933278-uk7cvcigbfr1rsrqgdaptld4hdb425jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jonalexjm.com.applanzarnotificacion",
+            "certificate_hash": "C03B22C1EBF9C665E18204AA9FE0B0BA52600DD7"
+          }
+        },
+        {
+          "client_id": "29628933278-jk4n84r5ucest1avemodfjt1hjin2j71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-4dbhLih8yPr7jOo3ApWbI6Q4-pDvEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29628933278-jk4n84r5ucest1avemodfjt1hjin2j71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

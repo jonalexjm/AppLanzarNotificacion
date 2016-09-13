@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppLanzarNotificacion</string>
+    <string name="lanzar_notificacion">Dame click baby :)</string>
+    <string name="recibir_notificaciones">Recibir notificaciones</string>
+</resources>
